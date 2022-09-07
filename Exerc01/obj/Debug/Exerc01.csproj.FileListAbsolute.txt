@@ -1,0 +1,8 @@
+D:\Users\Riddle\Downloads\Developer\C#\Atividade-ALP-SI\Exerc01\bin\Debug\Exerc01.exe.config
+D:\Users\Riddle\Downloads\Developer\C#\Atividade-ALP-SI\Exerc01\bin\Debug\Exerc01.exe
+D:\Users\Riddle\Downloads\Developer\C#\Atividade-ALP-SI\Exerc01\bin\Debug\Exerc01.pdb
+D:\Users\Riddle\Downloads\Developer\C#\Atividade-ALP-SI\Exerc01\obj\Debug\Exerc01.csproj.AssemblyReference.cache
+D:\Users\Riddle\Downloads\Developer\C#\Atividade-ALP-SI\Exerc01\obj\Debug\Exerc01.csproj.SuggestedBindingRedirects.cache
+D:\Users\Riddle\Downloads\Developer\C#\Atividade-ALP-SI\Exerc01\obj\Debug\Exerc01.csproj.CoreCompileInputs.cache
+D:\Users\Riddle\Downloads\Developer\C#\Atividade-ALP-SI\Exerc01\obj\Debug\Exerc01.exe
+D:\Users\Riddle\Downloads\Developer\C#\Atividade-ALP-SI\Exerc01\obj\Debug\Exerc01.pdb
