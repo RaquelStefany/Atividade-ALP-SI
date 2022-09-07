@@ -53,6 +53,7 @@ namespace Exerc01
                     Console.WriteLine("");
                     Console.WriteLine("A Média Aritmética é " + media);
                     Console.WriteLine("Aprovado");
+                    Console.ReadKey();
                 }
                 else
                 {
@@ -66,6 +67,7 @@ namespace Exerc01
             {
                 Console.WriteLine("A Média Aritmética é " + media);
                 Console.WriteLine("Aprovado");
+                Console.ReadKey();
             }
         }
     }
